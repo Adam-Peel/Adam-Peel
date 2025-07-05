@@ -5,10 +5,10 @@ I am an aspiring software developer undertaking a Full Stack Bootcamp with [Nort
 I especially enjoy working on open-source projects, solving probems, and creating practical applications.
 
 In my spare time I can be found:
-🏔️ In the great outdoors
-🎹 Learning classical piano
-🔨 Renovating a house
-📖 Reading classic novels
+- 🏔️ In the great outdoors
+- 🎹 Learning classical piano
+- 🔨 Renovating a house
+- 📖 Reading classic novels
 
 ---
 

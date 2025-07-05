@@ -1,16 +1,14 @@
-# Welcome!! I'm Adam 👋
-
 ## About Me
-I am an aspiring software developer undertaking a Full Stack Bootcamp with [Northcoders](https://northcoders.com)  
-I especially enjoy working on open-source projects, solving probems, and creating practical applications.
+Welcome!! I'm Adam 👋
+
+I'm an aspiring software developer undertaking a Full Stack Bootcamp with [Northcoders](https://northcoders.com)  
+I especially enjoy working in a team, solving probems, and creating practical applications.
 
 In my spare time I can be found:
 - 🏔️ In the great outdoors
 - 🎹 Learning classical piano
 - 🔨 Renovating a house
 - 📖 Reading classic novels
-
----
 
 ## Projects
 NC News backend server

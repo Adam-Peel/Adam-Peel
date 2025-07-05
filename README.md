@@ -15,13 +15,13 @@ In my spare time I can be found:
 ## Projects
 NC News backend server
 Full backend creation, seeding, and serving of a fictional news-site using PSQL and Express.js: 
-[Github Repo](https://github.com/Adam-Peel/news-aggregator)
-[Live api](https://news-aggregator-7e9t.onrender.com/)
+- [Github Repo](https://github.com/Adam-Peel/news-aggregator)
+- [Live API](https://news-aggregator-7e9t.onrender.com/)
 
 NC News frontend framework
 Full frontend app to serve the news-site, and allow interactions with the content using JS & React:
-[Github Repo](https://github.com/Adam-Peel/nc-news)
-[Live frontend](https://adam-peel-portfolio-news-site.netlify.app/)
+- [Github Repo](https://github.com/Adam-Peel/nc-news)
+- [Live frontend](https://adam-peel-portfolio-news-site.netlify.app/)
 
 
 ### ✉️ Reach Me:

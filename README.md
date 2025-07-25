@@ -1,8 +1,7 @@
 ## About Me
 Welcome!! I'm Adam 👋
 
-I'm an aspiring software developer undertaking a Full Stack Bootcamp with [Northcoders](https://northcoders.com)  
-I especially enjoy working in a team, solving probems, and creating practical applications.
+I'm an aspiring software developer undertaking a Full Stack Bootcamp with [Northcoders](https://northcoders.com), to retrain after a succesful period of leading National research projects for various charities.
 
 In my spare time I can be found:
 - 🏔️ In the great outdoors
@@ -14,12 +13,12 @@ In my spare time I can be found:
 NC News backend server
 Full backend creation, seeding, and serving of a fictional news-site using PSQL and Express.js: 
 - [Github Repo](https://github.com/Adam-Peel/news-aggregator)
-- [Live API](https://news-aggregator-7e9t.onrender.com/)
+- [Live API](https://www.adampeel/co.uk/api)
 
 NC News frontend framework
 Full frontend app to serve the news-site, and allow interactions with the content using JS & React:
 - [Github Repo](https://github.com/Adam-Peel/nc-news)
-- [Live frontend](https://adam-peel-portfolio-news-site.netlify.app/)
+- [Live frontend](https://www.adampeel.co.uk/nc-news)
 
 
 ### ✉️ Reach Me:

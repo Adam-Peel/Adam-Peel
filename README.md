@@ -6,23 +6,19 @@ I'm an aspiring software developer who has just Full Stack Bootcamp with [Northc
 In my spare time I can be found:
 - 🏔️ In the great outdoors
 - 🎹 Learning classical piano
-- 🔨 Renovating a house
 - 📖 Reading classic novels
 
 ## Projects
-NC News backend server
-Full backend creation, seeding, and serving of a fictional news-site using PSQL and Express.js: 
-- [Github Repo](https://github.com/Adam-Peel/news-aggregator)
-- [Live API](https://www.adampeel/co.uk/api)
+For more info about what I've done so far, or to get in touch, head over to my [portfolio](https://www.adampeel.co.uk)
 
-NC News frontend framework
-Full frontend app to serve the news-site, and allow interactions with the content using JS & React:
-- [Github Repo](https://github.com/Adam-Peel/nc-news)
-- [Live frontend](https://www.adampeel.co.uk/nc-news)
+### Current task-list
+- 🔨 Renovating a house (this one will be on here a while...!)
+- 📊 Explore React-Admin
+- 🐍 Dip the toes into Python
+- 🔐 Play with Supabase Auth
+- 🌐 Set up the [side hustle](https://www.aperturedesign.net) 
 
-
-### ✉️ Reach Me:
--  [Email me](adampeel@manx.net)
+If you're working on any of these and / or would like to collaborate, give me a shout!
 <!--
 **Adam-Peel/Adam-Peel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

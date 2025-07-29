@@ -1,6 +1,6 @@
 ## Welcome!! I'm Adam 👋
 
-I'm an aspiring software developer who has just Full Stack Bootcamp with [Northcoders](https://northcoders.com). I'm seeking to retrain after a succesful period of leading National research projects for various charities.
+I'm an aspiring software developer who has just completed a Full Stack Bootcamp with [Northcoders](https://northcoders.com). I'm seeking to retrain after a succesful period of leading National research projects for various charities.
 
 In my spare time I can be found:
 - 🏔️ In the great outdoors

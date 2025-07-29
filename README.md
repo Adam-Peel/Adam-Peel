@@ -8,7 +8,7 @@ In my spare time I can be found:
 - 📖 Reading classic novels
 
 ## Projects
-For more info about what I've done so far, or to get in touch, head over to my [portfolio](www.adampeel.co.uk)
+For more info about what I've done so far, or to get in touch, head over to my [portfolio](http://www.adampeel.co.uk)
 
 ### Current task-list
 - 🔨 Renovating a house (this one will be on here a while...!)

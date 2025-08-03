@@ -10,7 +10,9 @@ In my spare time I can be found:
 ## Projects
 For more info about what I've done so far, or to get in touch, head over to my [portfolio](https://adampeel.co.uk)
 
-### Current task-list
+- ☕ Starting to explore Java 
+
+### Nex on the task-list
 - 🔨 Renovating a house (this one will be on here a while...!)
 - 📊 Explore React-Admin
 - 🐍 Dip the toes into Python

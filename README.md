@@ -2,7 +2,7 @@
 
 I'm an aspiring software developer who has just completed a Full Stack Bootcamp with [Northcoders](https://northcoders.com), and will shortly be taking a part-time MSc Software Development with [Queen's University Belfast](https://www.qub.ac.uk/courses/postgraduate-taught/software-development-part-time-msc/). 
 
-I'm seeking to retrain after a succesful period of leading National research projects for various charities.
+I'm seeking to retrain into software development after a succesful period of leading National research projects for various charities.
 
 In my spare time I can be found:
 - 🏔️ In the great outdoors
@@ -16,7 +16,7 @@ For more info about what I've done so far, or to get in touch, head over to:
 
 ### Current learning
 - ☕ Starting to explore Java
-- 🧮 Revisiting A-Level maths (and beyond)
+- 🧑🏽‍💻 Computer science foundations
 
 ### Next on the task-list
 - 🔨 Renovating a house (this one will be on here a while...!)
